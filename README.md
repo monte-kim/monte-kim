@@ -1,5 +1,14 @@
-### Hi there 👋
+<div align="center">
+<h3>Hi there 👋</h3>
 
+<h4>This is TaeHwan.</h4>
+
+🌱 And I’m currently learning React and Express.
+#
+![TaeHwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=taehwan01&show_icons=true&theme=swift)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taehwan01&layout=compact&theme=swift)
+</div>
 <!--
 **taehwan01/taehwan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
