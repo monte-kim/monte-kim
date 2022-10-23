@@ -3,7 +3,7 @@
 
 <h4>This is TaeHwan.</h4>
 
-🌱 And I’m currently learning React and Express.
+🌻 And I’m currently learning React and Express.
 #
 ![TaeHwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=taehwan01&show_icons=true&theme=swift)
 
