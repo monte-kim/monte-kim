@@ -5,9 +5,9 @@
 
 🌻 And I’m currently learning React and Express.
 #
-![TaeHwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=taehwan01&show_icons=true&theme=swift)
+<!--![TaeHwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=taehwan01&show_icons=true&theme=swift)-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taehwan01&theme=swift&hide=jupyter%20notebook)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taehwan01&theme=swift&hide=jupyter%20notebook)-->
 </div>
 <!--
 **taehwan01/taehwan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
