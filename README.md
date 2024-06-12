@@ -3,7 +3,7 @@
   <div>
     <h3>Hi there 👋</h3>
     <h4>This is TaeHwan.</h4>
-    <hr/>
+    <hr style="height:0.05rem"/>
     <h4>🌻 SKILLS</h4>
     <img src="https://img.shields.io/badge/java-FFFFFF?style=for-the-badge&logo=java&logoColor=black">
     <img src="https://img.shields.io/badge/javascript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=black">
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/fastapi-FFFFFF?style=for-the-badge&logo=fastapi&logoColor=black">
     <br/>
     <br/>
-    <hr/>
+    <hr style="height:0.05rem"/>
 
   </div>
 </div>
