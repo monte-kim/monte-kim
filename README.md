@@ -3,10 +3,8 @@
   <div>
     <h3>Hi there 👋</h3>
     <h4>This is TaeHwan.</h4>
-  </div>
-</div>
-<hr style="height:1px"/>
-        <!-- <table style="table-layout:fixed; width:100%; border-collapse:collapse;">
+    <hr style="height:1px"/>
+        <table style="table-layout:fixed; width:100%; border:none;">
             <tr>
                 <td align="center" style="vertical-align:top;">
                     <h4>🌻 SKILLS</h4>
@@ -32,16 +30,11 @@
                     <img src="https://img.shields.io/badge/mongodb-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=black">
                 </td>
             </tr>
-        </table> -->
-| 🌻 SKILLS | 🌻 EXPERIENCES |
-| :---: | :---: |
-| 📕 LANGUAGE | 📗 FRAMEWORK |
-| <img src="https://img.shields.io/badge/java-FFFFFF?style=for-the-badge&logo=java&logoColor=black"> <img src="https://img.shields.io/badge/javascript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/python-FFFFFF?style=for-the-badge&logo=python&logoColor=black"> | <img src="https://img.shields.io/badge/express-FFFFFF?style=for-the-badge&logo=express&logoColor=black"> <img src="https://img.shields.io/badge/fastapi-FFFFFF?style=for-the-badge&logo=fastapi&logoColor=black"> <img src="https://img.shields.io/badge/vue-FFFFFF?style=for-the-badge&logo=vue.js&logoColor=black"> <img src="https://img.shields.io/badge/flutter-FFFFFF?style=for-the-badge&logo=flutter&logoColor=black"> |
-| 📗 FRAMEWORK | 📘 OTHERS |
-| <img src="https://img.shields.io/badge/springboot-FFFFFF?style=for-the-badge&logo=springboot&logoColor=black"> <img src="https://img.shields.io/badge/react-FFFFFF?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/redux-FFFFFF?style=for-the-badge&logo=redux&logoColor=black"> | <img src="https://img.shields.io/badge/mysql-FFFFFF?style=for-the-badge&logo=mysql&logoColor=black"> <img src="https://img.shields.io/badge/mongodb-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=black"> |
-| 📘 OTHERS | |
-| <img src="https://img.shields.io/badge/mysql-FFFFFF?style=for-the-badge&logo=mysql&logoColor=black"> | |
-<hr style="height:1px"/>
+        </table>
+    <hr style="height:1px"/>
+
+  </div>
+</div>
 
 <br/>
 <br/>
