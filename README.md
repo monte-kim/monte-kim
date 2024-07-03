@@ -4,7 +4,7 @@
     <h3>Hi there 👋</h3>
     <h4>This is TaeHwan.</h4>
     <hr style="height:1px"/>
-        <table style="table-layout:fixed; width:100%; border:none;">
+        <table style="table-layout:fixed; width:100%; border-collapse:collapse;">
             <tr>
                 <td align="center" style="vertical-align:top;">
                     <h4>🌻 SKILLS</h4>
