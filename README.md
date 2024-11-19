@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-<div>
+<div align="center">
   <h4>MY EXPERIENCES</h4>
   <h5>LANGUAGE</h5>
   <img src="https://img.shields.io/badge/java-FFFFFF?style=for-the-badge&logo=java&logoColor=black">
