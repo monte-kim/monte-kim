@@ -34,19 +34,21 @@
 
 <div align="center">
   <h3>MY PROJECTS</h3>
-<!--     <a href="https://github.com/nhnacademy-be6-5ritang">책 파는 오리탕집</a> -->
   <a href="https://github.com/nhnacademy-be6-5ritang">
     <img alt="책 파는 오리탕집" src="https://avatars.githubusercontent.com/u/172343156?s=200&v=4" style="width: 50px; height: 50px;"/>
   </a>
   &nbsp;
   &nbsp;
-<!--     <a href="https://github.com/hard-coding-mlops">뉴스 토픽 분류 학습 모델 MLOps</a> -->
   <a href="https://github.com/hard-coding-mlops">
     <img alt="뉴스 토픽 분류 학습 모델 MLOps" src="https://avatars.githubusercontent.com/u/149362270?s=200&v=4" style="width: 50px; height: 50px;"/>
   </a>
   &nbsp;
   &nbsp;
-<!--     <a href="https://github.com/taehwan01/cocoas">c o c o a s</a> -->
+  <a href="https://github.com/sku-plate">
+    <img alt="뉴스 토픽 분류 학습 모델 MLOps" src="https://avatars.githubusercontent.com/u/164152026?s=200&v=4" style="width: 50px; height: 50px;"/>
+  </a>
+  &nbsp;
+  &nbsp;
   <a href="https://github.com/taehwan01/cocoas">
     <img alt="c o c o a s" src="https://github.com/user-attachments/assets/15403970-f477-429c-b5d0-e74caf5ee881" style="width: 50px; height: 50px;"/>
   </a>  
