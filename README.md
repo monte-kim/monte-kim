@@ -34,6 +34,11 @@
 
 <div align="center">
   <h3>MY PROJECTS</h3>
+  <a href="https://github.com/muroom-studio">
+    <img alt="m u r o o m" src="https://github.com/user-attachments/assets/0ec67e17-d36a-4c64-aa5a-72788a6dc39a" style="width: 50px; height: 50px;"/>
+  </a>
+  &nbsp;
+  &nbsp;
   <a href="https://github.com/nhnacademy-be6-5ritang">
     <img alt="책 파는 오리탕집" src="https://avatars.githubusercontent.com/u/172343156?s=200&v=4" style="width: 50px; height: 50px;"/>
   </a>
