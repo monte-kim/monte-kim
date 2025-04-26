@@ -14,13 +14,12 @@
   <img src="https://img.shields.io/badge/python-FFFFFF?style=for-the-badge&logo=python&logoColor=000000">
   <h4>BACKEND</h4>
   <img src="https://img.shields.io/badge/springboot-FFFFFF?style=for-the-badge&logo=springboot&logoColor=000000">
-  <img src="https://img.shields.io/badge/express-FFFFFF?style=for-the-badge&logo=express&logoColor=000000">
+  <img src="https://img.shields.io/badge/nestjs-FFFFFF?style=for-the-badge&logo=nestjs&logoColor=000000">
   <img src="https://img.shields.io/badge/fastapi-FFFFFF?style=for-the-badge&logo=fastapi&logoColor=000000">
   <h4>FRONTEND</h4>
   <img src="https://img.shields.io/badge/react-FFFFFF?style=for-the-badge&logo=react&logoColor=000000">
   <img src="https://img.shields.io/badge/redux-FFFFFF?style=for-the-badge&logo=redux&logoColor=000000">
   <img src="https://img.shields.io/badge/vue-FFFFFF?style=for-the-badge&logo=vue.js&logoColor=000000">
-  <img src="https://img.shields.io/badge/flutter-FFFFFF?style=for-the-badge&logo=flutter&logoColor=000000">
   <h4>OTHERS</h4>
   <img src="https://img.shields.io/badge/mysql-FFFFFF?style=for-the-badge&logo=mysql&logoColor=000000">
   <img src="https://img.shields.io/badge/mongodb-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=000000">
